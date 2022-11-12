@@ -1,0 +1,2 @@
+INSERT INTO Profil (id_profil, firstname , lastname , profilename , profileImage , borndate , bornAt , maritalStatus , numberChild , drivingLicense , id_user)
+VALUES (&id_profil, '&firstname' , '&lastname' , '&profilename' , '&profileImage' , '&borndate' , '&bornAt' , '&maritalStatus' , '&numberChild' , '&drivingLicense' , &id_user);

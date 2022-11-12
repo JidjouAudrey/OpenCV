@@ -1,0 +1,2 @@
+INSERT INTO Competence( id_compet, name_compet , level_compet , id_recom , id_hobbies, id_formation , id_cv)
+VALUES (&id_compet, '&name_compet' , '&level_compet' , '&id_recom' , '&id_hobbies', '&id_formation' , &id_cv);

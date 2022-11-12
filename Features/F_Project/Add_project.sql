@@ -1,0 +1,2 @@
+INSERT INTO Project( id_project , name , status , startDate , endDate , partner , urlProject , descriptionProject , id_formation , id_exp , id_expro)
+VALUES(&id_project , '&name' , '&status' , '&startDate' , '&endDate' , '&partner' , '&urlProject' , '&descriptionProject' , &id_formation , &id_exp , &id_expro );
