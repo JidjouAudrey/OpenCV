@@ -1,0 +1,3 @@
+ALTER TABLE Country
+ADD
+CONSTRAINT fk_Country FOREIGN KEY(id_profil);

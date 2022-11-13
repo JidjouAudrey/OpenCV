@@ -1,0 +1,3 @@
+ALTER TABLE Phones
+ADD
+CONSTRAINT fk_Country FOREIGN KEY (id_profil);

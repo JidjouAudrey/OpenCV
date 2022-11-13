@@ -14,6 +14,35 @@ PROMPT******************** creation de la table Cv******************************
 PROMPT******************** creation de la table Competence************************************
 @Objects/Tables/Table_competence
 
+PROMPT******************** creation de la table Experience************************************
+@Objects/Tables/Table_experience
+
+PROMPT******************** creation de la table Professional_exp************************************
+@Objects/Tables/Table_Professional_exp
+
+PROMPT******************** creation de la table Formation************************************
+@Objects/Tables/Table_Formation
+
+PROMPT******************** creation de la table Recommandation************************************
+@Objects/Tables/Table_Recommandation
+
+PROMPT******************** creation de la table Country************************************
+@Objects/Tables/Table_Country
+
+PROMPT******************** creation de la table Language************************************
+@Objects/Tables/Table_Language
+
+PROMPT******************** creation de la table Phones************************************
+@Objects/Tables/Table_Phones
+
+PROMPT******************** creation de la table City************************************
+@Objects/Tables/Table_City
+
+
+
+
+
+
 
 
 
