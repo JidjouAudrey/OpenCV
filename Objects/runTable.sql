@@ -18,13 +18,13 @@ PROMPT******************** creation de la table Experience**********************
 @Objects/Tables/Table_experience
 
 PROMPT******************** creation de la table Professional_exp************************************
-@Objects/Tables/Table_Professional_exp
+@Objects/Tables/Table_professional_exp
 
 PROMPT******************** creation de la table Formation************************************
-@Objects/Tables/Table_Formation
+@Objects/Tables/Table_formation
 
 PROMPT******************** creation de la table Recommandation************************************
-@Objects/Tables/Table_Recommandation
+@Objects/Tables/Table_recommandation
 
 PROMPT******************** creation de la table Users************************************
 @Objects/Tables/Table_Users
@@ -35,20 +35,15 @@ PROMPT******************** creation de la table SocialNetwork*******************
 PROMPT******************** creation de la table Hobbies************************************
 @Objects/Tables/Table_Hobbies
 
-
-
-
 PROMPT******************** creation de la table Country************************************
-@Objects/Tables/Table_Country
+@Objects/Tables/Table_country
 
 PROMPT******************** creation de la table Language************************************
-@Objects/Tables/Table_Language
+@Objects/Tables/Table_language
 
 PROMPT******************** creation de la table Phones************************************
-@Objects/Tables/Table_Phones
+@Objects/Tables/Table_phones
 
-PROMPT******************** creation de la table City************************************
-@Objects/Tables/Table_City
 
 
 
