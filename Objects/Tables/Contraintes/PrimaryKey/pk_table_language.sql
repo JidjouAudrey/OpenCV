@@ -1,3 +1,3 @@
 ALTER TABLE Language
 ADD
-PRIMARY KEY (id_language);
+PRIMARY KEY (id_lang);

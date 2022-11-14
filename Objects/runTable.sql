@@ -42,7 +42,8 @@ PROMPT******************** creation de la table Language************************
 @Objects/Tables/Table_language
 
 PROMPT******************** creation de la table Phones************************************
-@Objects/Tables/Table_phones
+@Objects/Tables/Table_phone
+
 
 
 
