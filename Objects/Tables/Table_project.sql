@@ -8,5 +8,5 @@ partner VARCHAR(30) ,
 urlProject VARCHAR(25), 
 descriptionProject VARCHAR(50), 
 id_formation INT, 
-id_exp INT, 
+id_exp INT,
 id_expro INT); 

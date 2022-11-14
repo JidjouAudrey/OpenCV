@@ -1,15 +1,15 @@
-CREATE TABLE Profil (
-id_profil number(10), 
-firstname varchar2(50),
- lastname varchar2(50), 
- profilename varchar2(50), 
- profileImage varchar2(30), 
- borndate date, 
- bornAt varchar2(20) NOT NULL, 
- maritalStatus varchar2(10) NOT NULL, 
- numberChild number(10) NOT NULL, 
- drivingLicense varchar2(20) NOT NULL, 
- id_user number(10) NOT NULL, 
- id_city number(10) NOT NULL, 
- id_country number(10) NOT NULL 
+ CREATE TABLE Profil (
+ id_profil INT(10), 
+ firstname VARCHAR(50),
+ lastname VARCHAR(50), 
+ profilname VARCHAR(50), 
+ profilImage VARCHAR(30), 
+ borndate DATE,
+ bornAt VARCHAR(20) , 
+ maritalStatus VARCHAR(10) , 
+ numberChild INT(10) , 
+ drivingLicence VARCHAR(20) , 
+ id_user INT(10), 
+ id_city INT(10) , 
+ id_country INT(10)  
  );

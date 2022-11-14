@@ -3,8 +3,8 @@ CREATE TABLE Professional_Exp
        status_expro VARCHAR(20), 
        organisation VARCHAR(20), 
        function VARCHAR (20),
-       startDate DATE (15), 
-       endDate DATE (15), 
+       startDate DATE, 
+       endDate DATE, 
        id_exp INT, 
         
 );
