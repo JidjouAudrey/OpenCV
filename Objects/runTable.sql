@@ -26,6 +26,18 @@ PROMPT******************** creation de la table Formation***********************
 PROMPT******************** creation de la table Recommandation************************************
 @Objects/Tables/Table_Recommandation
 
+PROMPT******************** creation de la table Users************************************
+@Objects/Tables/Table_Users
+
+PROMPT******************** creation de la table SocialNetwork************************************
+@Objects/Tables/Table_SocialNetwork
+
+PROMPT******************** creation de la table Hobbies************************************
+@Objects/Tables/Table_Hobbies
+
+
+
+
 PROMPT******************** creation de la table Country************************************
 @Objects/Tables/Table_Country
 

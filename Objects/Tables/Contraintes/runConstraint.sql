@@ -31,6 +31,16 @@ PROMPT******************** ajout de contraintes pk table professional_experience
 PROMPT******************** ajout de contraintes pk table recommandation************************
 @Objects/Tables/Contraintes/PrimaryKey/pk_table_recommandation
 
+PROMPT******************** ajout de contraintes pk table users************************
+@Objects/Tables/Contraintes/PrimaryKey/pk_table_users
+
+PROMPT******************** ajout de contraintes pk table hobbies************************
+@Objects/Tables/Contraintes/PrimaryKey/pk_table_hobbies
+
+PROMPT******************** ajout de contraintes pk table socialnetwork************************
+@Objects/Tables/Contraintes/PrimaryKey/pk_table_socialnetwork
+
+
 
 
 
@@ -55,6 +65,12 @@ PROMPT******************** ajout de contraintes fk table competence*************
 
 PROMPT******************** ajout de contraintes fk table experience*************************
 @Objects/Tables/Contraintes/ForeignKey/fk_table_experience
+
+PROMPT******************** ajout de contraintes fk table socialNetwork*************************
+@Objects/Tables/Contraintes/ForeignKey/fk_table_SocialNetwork
+
+PROMPT******************** ajout de contraintes fk table hobbies*************************
+@Objects/Tables/Contraintes/ForeignKey/fk_table_Hobbies
 
 PROMPT******************** ajout de contraintes fk table country*************************
 @Objects/Tables/Contraintes/ForeignKey/fk_table_country

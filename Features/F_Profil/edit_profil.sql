@@ -1,8 +1,8 @@
 UPDATE Profil
 set firstname = '&firstname',
 lastname = '&lastname',
-profilename = '&profilename',
-profileImage = '&profileImage',
+profilname = '&profilname',
+profilImage = '&profilImage',
 borndate = '&borndate',
 bornAt = '&bornAt',
 maritalStatus = '&maritalStatus',
