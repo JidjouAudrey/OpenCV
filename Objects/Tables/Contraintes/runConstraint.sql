@@ -23,7 +23,7 @@ PROMPT******************** ajout de contraintes pk table language***************
 @Objects/Tables/Contraintes/PrimaryKey/pk_table_language
 
 PROMPT******************** ajout de contraintes pk table phones************************
-@Objects/Tables/Contraintes/PrimaryKey/pk_table_phones
+@Objects/Tables/Contraintes/PrimaryKey/pk_table_phone
 
 PROMPT******************** ajout de contraintes pk table professional_experience************************
 @Objects/Tables/Contraintes/PrimaryKey/pk_table_professional_experience
@@ -76,7 +76,7 @@ PROMPT******************** ajout de contraintes fk table country****************
 @Objects/Tables/Contraintes/ForeignKey/fk_table_country
 
 PROMPT******************** ajout de contraintes fk table phones*************************
-@Objects/Tables/Contraintes/ForeignKey/fk_table_phones
+@Objects/Tables/Contraintes/ForeignKey/fk_table_phone
 
 PROMPT******************** ajout de contraintes fk table professional_experience*************************
 @Objects/Tables/Contraintes/ForeignKey/fk_table_professional_experience

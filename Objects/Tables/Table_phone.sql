@@ -1,5 +1,5 @@
 CREATE TABLE Phones(id_phone INT,
-                    phoneNumber VARCHAR,
+                    phoneNumber VARCHAR(20),
                     isMobile VARCHAR (20),
                     isWhatsapp VARCHAR (20),
                     isTelegram VARCHAR (20),

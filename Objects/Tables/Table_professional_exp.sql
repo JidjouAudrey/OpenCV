@@ -5,6 +5,5 @@ CREATE TABLE Professional_Exp
        function VARCHAR (20),
        startDate DATE, 
        endDate DATE, 
-       id_exp INT, 
-        
+       id_exp INT         
 );

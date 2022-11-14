@@ -1,3 +1,3 @@
 ALTER TABLE Languages
 ADD
-CONSTRAINT fk_Language FOREIGN KEY (id_profil);
+CONSTRAINT fk_language FOREIGN KEY (id_profil) REFERENCES Profil (id_profil);
