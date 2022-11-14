@@ -1,6 +1,6 @@
 UPDATE Professional_exp
 SET 
-status='&new_status_expro',
+status_expro='&new_status_expro',
 organisation='&new_organisation',
 function_exp= '&new_function_exp',
 startDate ='&new_startDate',
