@@ -8,7 +8,7 @@ INSERT INTO Profil (id_profil,firstname,lastname,profilImage,borndate,bornAt,mar
 VALUE(3,'Tekoudjou','loic','png','12/05/2000','bafoussam','Celibataire','0','permis D',3,3,3);
 
 INSERT INTO Profil (id_profil,firstname,lastname,profilImage,borndate,bornAt,maritalStatus,numberChild,drivingLicence,id_user,id_city,id_country)
-VALUE(4,'Dongmo','anny','png','11/10/1985','yaounde','Celibataire','3','permis B',4,4,4);
+VALUE(4,'Dongmo','anna','png','11/10/1985','yaounde','Celibataire','3','permis B',4,4,4);
 
 INSERT INTO Profil (id_profil,firstname,lastname,profilImage,borndate,bornAt,maritalStatus,numberChild,drivingLicence,id_user,id_city,id_country)
 VALUE(5,'Kombo','andrea','png','11/03/2001','bafoussam','couple','7','permis D',5,5,5);
