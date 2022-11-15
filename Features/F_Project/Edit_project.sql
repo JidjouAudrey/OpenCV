@@ -1,7 +1,7 @@
 UPDATE Project
 SET
 name = '&name', 
-status = '&status',
+status_user = '&status_user',
 startDate = '&startDate',
 endDate = '&endDate',
 partner = '&partner',

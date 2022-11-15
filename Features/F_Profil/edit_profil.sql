@@ -1,7 +1,6 @@
 UPDATE Profil
 set firstname = '&firstname',
 lastname = '&lastname',
-profilname = '&profilname',
 profilImage = '&profilImage',
 borndate = '&borndate',
 bornAt = '&bornAt',

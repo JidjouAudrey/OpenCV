@@ -1,7 +1,7 @@
 CREATE TABLE Project (
 id_project INT, 
 name_project VARCHAR(20), 
-status_project VARCHAR(30) , 
+status_user VARCHAR(30) , 
 startDate date , 
 endDate date, 
 partner VARCHAR(30) , 

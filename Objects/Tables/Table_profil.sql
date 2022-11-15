@@ -1,8 +1,7 @@
  CREATE TABLE Profil (
  id_profil INT, 
  firstname VARCHAR(50),
- lastname VARCHAR(50), 
- profilname VARCHAR(50), 
+ lastname VARCHAR(50),  
  profilImage VARCHAR(30), 
  borndate DATE,
  bornAt VARCHAR(20) , 
