@@ -11,7 +11,7 @@ INSERT INTO Competence (id_compet,name_compet,level_compet,id_recom,id_hobbies,i
 VALUES (4,'redaction excel', 'beginner',4,4,4,4);
 
 INSERT INTO Competence (id_compet,name_compet,level_compet,id_recom,id_hobbies,id_formation,id_cv)
-VALUES (5,'connaissance de la langu francaise', 'beginner',5,5,5,5);
+VALUES (5,'connaissance de la langue francaise', 'beginner',5,5,5,5);
 
 INSERT INTO Competence (id_compet,name_compet,level_compet,id_recom,id_hobbies,id_formation,id_cv)
 VALUES (6,'Developpeur Front-end', 'beginner',6,6,6,6);
@@ -23,7 +23,7 @@ INSERT INTO Competence (id_compet,name_compet,level_compet,id_recom,id_hobbies,i
 VALUES (8,'Administrateur de base de donnees', 'beginner',8,8,8,8);
 
 INSERT INTO Competence (id_compet,name_compet,level_compet,id_recom,id_hobbies,id_formation,id_cv)
-VALUES (9,'Developpeur Front-', 'beginner',9,9,9,9);
+VALUES (9,'Developpeur Front-end', 'beginner',9,9,9,9);
 
 INSERT INTO Competence (id_compet,name_compet,level_compet,id_recom,id_hobbies,id_formation,id_cv)
 VALUES (10,'Developpeur fullstack', 'beginner',10,10,10,10);
