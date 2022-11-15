@@ -1,5 +1,5 @@
 INSERT INTO Hobbies (id_hobbies,type_hobbies,title_hobbies,id_user)
-VALUES (1,,'Danse''Classique',1);
+VALUES (1,,'Danse','Classique',1);
 
 INSERT INTO Hobbies (id_hobbies,type_hobbies,title_hobbies,id_user)
 VALUES (2,'Musique','Coupe-decale',2);
