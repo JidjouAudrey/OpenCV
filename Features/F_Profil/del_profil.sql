@@ -1,2 +1,2 @@
-DELETE FROM Profil
+DROP FROM Profil
 WHERE id_profil = &id_profil;

@@ -1,2 +1,2 @@
-DELETE FROM Users
+DROP FROM Users
 WHERE id_user = &id_user;

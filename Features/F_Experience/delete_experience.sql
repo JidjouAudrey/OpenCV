@@ -1,2 +1,2 @@
-DELETE FROM Experience
+DROP FROM Experience
 WHERE id_exp = &id_exp;
