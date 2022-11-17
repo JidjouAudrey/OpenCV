@@ -19,6 +19,8 @@ PROMPT *************************************************************************
 PROMPT ***********************************Creation des tables*****************************************
 @Objects/runTable
 
+@Data/RunData
+
 SPOOL OFF
 
 SELECT table_name FROM user_tables; 

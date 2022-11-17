@@ -1,6 +1,6 @@
 CREATE TABLE Users(
-    id_user INT ,
-    name_user VARCHAR(60),
-    email VARCHAR(50),
+    id_user INT,
+    name_user VARCHAR(15),
+    email VARCHAR(30),
     user_password VARCHAR(10)
 );

@@ -21,7 +21,7 @@ PROMPT******************** creation de la table Professional_exp****************
 @Objects/Tables/Table_professional_exp
 
 PROMPT******************** creation de la table Formation************************************
-@Objects/Tables/Table_formation
+@Objects/Tables/Table_formations
 
 PROMPT******************** creation de la table Recommandation************************************
 @Objects/Tables/Table_recommandation
@@ -43,17 +43,5 @@ PROMPT******************** creation de la table Language************************
 
 PROMPT******************** creation de la table Phones************************************
 @Objects/Tables/Table_phone
-
-
-
-
-
-
-
-
-
-
-
-
 
 @Objects/Tables/Contraintes/runConstraint

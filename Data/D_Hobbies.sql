@@ -1,11 +1,11 @@
 INSERT INTO Hobbies (id_hobbies,type_hobbies,title_hobbies,id_user)
-VALUES (1,,'Danse','Classique',1);
+VALUES (1,'Danse','Classique',1);
 
 INSERT INTO Hobbies (id_hobbies,type_hobbies,title_hobbies,id_user)
 VALUES (2,'Musique','Coupe-decale',2);
 
 INSERT INTO Hobbies (id_hobbies,type_hobbies,title_hobbies,id_user)
-VALUES (3,'Sport','Football','Sport',3);
+VALUES (3,'Sport','Football',3);
 
 INSERT INTO Hobbies (id_hobbies,type_hobbies,title_hobbies,id_user)
 VALUES (4,'Divers','Voyage',4);
