@@ -29,15 +29,15 @@ PROMPT**********RUBRIQUE PHONES**********
 @PROFIL
 
 PROMPT**********RUBRIQUE RESEAUX SOCIAL**********
-@PROFILDONNE
+@Features/F_SocialNetwork/add_socialnetwork
 
 PROMPT**********RUBRIQUE COMPETENCE**********
-@PROFIL
+@Features/F_Competence/Add_competence
 
 PROMPT**********RUBRIQUE EXP PROFESSIONNEL**********
-@PROFILDONNE
+@Features/F_Professional_exp/add_professional_exp
 
-PROMPT**********RUBRIQUE PROJECTS**********
+PROMPT**********RUBRIQUE PROJETS**********
 @PROFIL
 
 

@@ -1,8 +1,3 @@
- select * from Recommandation;
- select * from Hobbies;
- select * from Formation;
- select * from Cv;
-
 INSERT INTO Competence( 
   id_compet, 
   name_compet , 
