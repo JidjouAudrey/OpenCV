@@ -1,0 +1,46 @@
+PROMPT**********CREATION DE VOTRE COMPTE**********
+@USER
+
+PROMPT**********CREATION DE VOTRE PROFIL**********
+@PROFIL
+
+PROMPT*************RUBRIQUE HOBBIES***************
+@HOBBIE
+
+PROMPT********RUBRIQUE DE RECOMMANDATION**********
+@RECOMMANDATION
+
+PROMPT**********ID DE VOTRE CV*******************
+@CV
+
+PROMPT**********RUBRIQUE EXPERIENCES**********
+@PROFIL
+
+PROMPT**********RUBRIQUE FORMATION**********
+@PROFIL
+
+PROMPT**********RUBRIQUE PAYS**********
+@PROFIL
+
+PROMPT**********RUBRIQUE LANGUAGE**********
+@PROFIL
+
+PROMPT**********RUBRIQUE PHONES**********
+@PROFIL
+
+PROMPT**********RUBRIQUE RESEAUX SOCIAL**********
+@PROFIL
+
+PROMPT**********RUBRIQUE COMPETENCE**********
+@PROFIL
+
+PROMPT**********RUBRIQUE EXP PROFESSIONNEL**********
+@PROFIL
+
+PROMPT**********RUBRIQUE PROJETS**********
+@PROFIL
+
+
+
+
+

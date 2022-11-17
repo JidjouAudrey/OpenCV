@@ -21,6 +21,8 @@ PROMPT ***********************************Creation des tables*******************
 
 @Data/RunData
 
+@Objects/Sequence
+
 SPOOL OFF
 
 SELECT table_name FROM user_tables; 
