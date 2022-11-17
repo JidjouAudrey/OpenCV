@@ -37,7 +37,7 @@ PROMPT**********RUBRIQUE COMPETENCE**********
 PROMPT**********RUBRIQUE EXP PROFESSIONNEL**********
 @PROFIL
 
-PROMPT**********RUBRIQUE PROJETS**********
+PROMPT**********RUBRIQUE PROJECTS**********
 @PROFIL
 
 
