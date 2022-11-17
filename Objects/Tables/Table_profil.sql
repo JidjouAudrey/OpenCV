@@ -8,7 +8,5 @@
  maritalStatus VARCHAR(15), 
  numberChild INT, 
  drivingLicence VARCHAR(10), 
- id_user INT, 
- id_city INT, 
- id_country INT  
+ id_user INT  
  );

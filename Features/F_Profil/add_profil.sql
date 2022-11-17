@@ -1,2 +1,22 @@
-INSERT INTO Profil (id_profil, firstname , lastname , profilname , profilImage , borndate , bornAt , maritalStatus , numberChild , drivingLicense , id_user)
-VALUES (&id_profil, '&firstname' , '&lastname' , '&profilname' , '&profilImage' , '&borndate' , '&bornAt' , '&maritalStatus' , '&numberChild' , '&drivingLicense' , &id_user);
+
+INSERT INTO Profil (id_profil,
+	 firstname,
+	 lastname,  
+	 profilImage,
+	 borndate, 
+	 bornAt, 
+	 maritalStatus,
+	 numberChild,  
+	 drivingLicence, 
+	 id_user)
+VALUES (seq_prof.nextval, 
+	'&firstname', 
+	'&lastname',  
+	'&profilImage', 
+	'&borndate','&bornAt',
+        '&maritalStatus', 
+	'&numberChild',
+	'&drivingLicence',
+	 &id_user);
+
+select * from profil;

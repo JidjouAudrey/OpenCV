@@ -4,6 +4,12 @@ CREATE SEQUENCE seq_exp
 START WITH 16
 increment  BY 1;
 
+PROMPT***********Sequence_Recommandation***************
+
+CREATE SEQUENCE seq_recom
+START WITH 16
+increment BY 1;
+
 
 PROMPT*************Sequence_Project***************
 
@@ -74,15 +80,11 @@ increment BY 1;
 
 PROMPT***********Sequence_Formation***************
 
-CREATE SEQUENCE seq_form;
+CREATE SEQUENCE seq_form
 START WITH 16
 increment BY 1;
 
-PROMPT***********Sequence_Recommandation***************
 
-CREATE SEQUENCE seq_recom;
-START WITH 16
-increment BY 1;
 
 PROMPT***********Sequence_Country***************
 

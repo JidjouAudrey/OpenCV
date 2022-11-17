@@ -1,23 +1,23 @@
 PROMPT**********CREATION DE VOTRE COMPTE**********
-@USER
+@Features/F_Users/add_user
 
 PROMPT**********CREATION DE VOTRE PROFIL**********
-@PROFIL
+@Features/F_Profil/add_profil
 
 PROMPT*************RUBRIQUE HOBBIES***************
-@HOBBIE
+@Features/F_Hobbies/add_hobbies
 
 PROMPT********RUBRIQUE DE RECOMMANDATION**********
-@RECOMMANDATION
+@Features/F_Recommandation/add_recommandation
 
 PROMPT**********ID DE VOTRE CV*******************
-@CV
+@Features/F_Cv/Add_cv
 
 PROMPT**********RUBRIQUE EXPERIENCES**********
-@PROFIL
+@Features/F_Experience/add_experience
 
 PROMPT**********RUBRIQUE FORMATION**********
-@PROFIL
+@Features/F_Formation/add_formation
 
 PROMPT**********RUBRIQUE PAYS**********
 @PROFIL
@@ -29,13 +29,13 @@ PROMPT**********RUBRIQUE PHONES**********
 @PROFIL
 
 PROMPT**********RUBRIQUE RESEAUX SOCIAL**********
-@PROFIL
+@PROFILDONNE
 
 PROMPT**********RUBRIQUE COMPETENCE**********
 @PROFIL
 
 PROMPT**********RUBRIQUE EXP PROFESSIONNEL**********
-@PROFIL
+@PROFILDONNE
 
 PROMPT**********RUBRIQUE PROJETS**********
 @PROFIL

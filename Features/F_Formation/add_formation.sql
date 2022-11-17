@@ -1,4 +1,22 @@
-INSERT INTO Formation (id_formation,school,fieldOfStudy,diploma,startDate,endDate,obtainedResult,
-descriptionForm,id_exp,id_user,id_cv)
-VALUES(&id_Formation,'&school','&fieldOfStudy','&diploma','&startDate','&endDate','obtainedResult'
-'&descriptionForm', &id_exp, &id_user, &id_cv);
+INSERT INTO Formation (id_formation,
+	school,
+	fieldOfStudy,
+	diploma,
+	startDate,
+	endDate,
+	obtainedResult,
+	id_exp,
+	id_user,
+	id_cv)
+VALUES(seq_form.nextval,
+	'&school',
+	'&fieldOfStudy',
+	'&diploma',
+	'&startDate',
+	'&endDate',
+	'&obtainedResult', 
+	 &id_exp,
+	 &id_user,
+	 &id_cv);
+
+select * from formation;

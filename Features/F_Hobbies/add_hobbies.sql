@@ -1,2 +1,12 @@
-INSERT INTO Hobbies (id_hobbies,type_hobbies,title_hobbies,id_user)
-VALUES (&id_hobbies,'&type_hobbies','&title_hobbies',&id_user);
+Select * from users;
+
+INSERT INTO Hobbies(id_hobbies,
+	type_hobbies,
+	title_hobbies,
+	id_user)
+VALUES (seq_hob.nextval,
+	'&type_hobbies',
+	'&title_hobbies',
+	 &id_user);
+
+select * from hobbies;
