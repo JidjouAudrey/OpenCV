@@ -1,2 +1,2 @@
-DROP from SocialNetwork
+DELETE from SocialNetwork
 WHERE id_social=&id_social;

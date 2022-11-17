@@ -1,29 +1,29 @@
-DROP SEQUENCE seq_experience;
-DROP SEQUENCE seq_project;
+DROP SEQUENCE seq_exp;
+DROP SEQUENCE seq_proj;
 DROP SEQUENCE seq_phones;
-DROP SEQUENCE seq_language;
-DROP SEQUENCE seq_hobbies;
+DROP SEQUENCE seq_lang;
+DROP SEQUENCE seq_hob;
 DROP SEQUENCE seq_users;
-DROP SEQUENCE seq_socialnetwork;
-DROP SEQUENCE seq_professional_exp;
-DROP SEQUENCE seq_profil;
-DROP SEQUENCE seq_projet;
+DROP SEQUENCE seq_soc_net;
+DROP SEQUENCE seq_prof_exp;
+DROP SEQUENCE seq_prof;
 DROP SEQUENCE seq_cv;
-DROP SEQUENCE seq_competence;
-DROP SEQUENCE seq_formation;
-DROP SEQUENCE seq_recommandation;
+DROP SEQUENCE seq_compet;
+DROP SEQUENCE seq_form;
+DROP SEQUENCE seq_recom;
+DROP SEQUENCE seq_count;
 
 
 ************Sequence_Experience**************
 
-CREATE SEQUENCE seq_experience
+CREATE SEQUENCE seq_exp
 START WITH 16
 increment  BY 1;
 
 
 *************Sequence_Project***************
 
-CREATE SEQUENCE seq_project
+CREATE SEQUENCE seq_proj
 START WITH 16
 increment BY 1;
 
@@ -39,76 +39,76 @@ increment BY 1;
 *************Sequence_Language****************
 
 
-CREATE SEQUENCE seq_language
+CREATE SEQUENCE seq_lang
 START WITH 16
 increment BY 1;
 
 
-**************Sequence Hobbies******************
+**************Sequence_Hobbies******************
 
-CREATE SEQUENCE seq_hobbies
+CREATE SEQUENCE seq_hob
 START WITH 16
 increment BY 1;
 
 
-**************Sequence Users******************
+**************Sequence_Users******************
 
-CREATE SEQUENCE seq_hobbies
+CREATE SEQUENCE seq_users
 START WITH 16
 increment BY 1;
 
 
-**************Sequence SocialNetwork*****************
+**************Sequence_SocialNetwork*****************
 
-CREATE SEQUENCE seq_hobbies
+CREATE SEQUENCE seq_soc_net
 START WITH 16
 increment BY 1;
 
 
-**************Sequence Professional_Exp*****************
+**************Sequence_Professional_Exp*****************
 
-CREATE SEQUENCE seq_professional_exp 
+CREATE SEQUENCE seq_prof_exp 
 START WITH 16
 increment BY 1;
 
 
 ***********Sequence_Profil***************
 
-CREATE SEQUENCE seq_profil
-START WITH 16
-increment BY 1;
-
-
-***********Sequence_Projet***************
-
-CREATE SEQUENCE seq_projet
+CREATE SEQUENCE seq_prof
 START WITH 16
 increment BY 1;
 
 
 ***********Sequence_Cv***************
 
-CREATE SEQUENCE seq_Cv
+CREATE SEQUENCE seq_cv
 START WITH 16
 increment BY 1;
 
 
 ***********Sequence_Competence***************
 
-CREATE SEQUENCE seq_competence
+CREATE SEQUENCE seq_compet
 START WITH 16
 increment BY 1;
 
 
 ***********Sequence_Formation***************
 
-CREATE SEQUENCE seq_formation;
+CREATE SEQUENCE seq_form;
 START WITH 16
 increment BY 1;
 
 
 ***********Sequence_Recommandation***************
 
-CREATE SEQUENCE seq_recommandation;
+CREATE SEQUENCE seq_recom;
+START WITH 16
+increment BY 1;
+
+
+***********Sequence_Country***************
+
+CREATE SEQUENCE seq_count
 START WITH 16
 increment BY 1;
