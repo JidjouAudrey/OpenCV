@@ -40,7 +40,7 @@ PROMPT**********RUBRIQUE EXP PROFESSIONNEL**********
 PROMPT**********RUBRIQUE PROJETS**********
 @Features/F_Project/Add_project
 
-
+@features/view_cv
 
 
 

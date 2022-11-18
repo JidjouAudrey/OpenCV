@@ -7,8 +7,5 @@ DELETE FROM Professional_exp
 WHERE id_expro=&id_user;
 
 
-select * from users;
-select * from project;
-select * from Professional_exp;
 
 
