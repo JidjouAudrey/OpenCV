@@ -1,2 +1,2 @@
 DELETE FROM Competence
-WHERE id_compet = &id_compet;
+WHERE id_hobbies = &id_hobbies;
