@@ -1,2 +1,2 @@
 DELETE from SocialNetwork
-WHERE id_social=&id_social;
+WHERE id_profil=&id_profil;

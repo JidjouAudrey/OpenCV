@@ -1,6 +1,6 @@
 ALTER TABLE Competence 
 MODIFY id_compet INT NOT NULL
-MODIFY name_compet varchar(20) NOT NULL 
+MODIFY name_compet varchar(40) NOT NULL 
 MODIFY level_compet varchar(15) NOT NULL 
 MODIFY id_recom INT NOT NULL  
 MODIFY id_hobbies INT NOT NULL 

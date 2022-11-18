@@ -1,2 +1,2 @@
 DELETE FROM Phones
-FROM id_phone=&id_phone;
+WHERE id_profil=&id_profil;
