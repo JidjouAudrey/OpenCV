@@ -20,7 +20,7 @@ PROMPT****************INSERTION DES FORMATIONS********************
 @Data/D_formation
 
 PROMPT****************INSERTION DES COUNTRY********************
-@Data/D_country
+@Data/D_countries
 
 PROMPT****************INSERTION DES LANGUAGE********************
 @Data/D_languages 
