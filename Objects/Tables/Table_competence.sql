@@ -1,4 +1,4 @@
-CREATE TABLE Competence (
+CREATE TABLE Competence(
 id_compet INT, 
 name_compet varchar(50) , 
 level_compet varchar(15), 

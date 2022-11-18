@@ -1,12 +1,6 @@
-
-select * from Formation;
-select * from Experience;
-select * from Professional_Exp;
-
-
 INSERT INTO Project(
 		 id_project,
-		 name,
+		 name_project,
 		 status_user,
 		 startDate, 
 		 endDate,
@@ -18,7 +12,7 @@ INSERT INTO Project(
 		 id_expro)
 	VALUES(
 		seq_proj.nextval, 
-		 '&name',
+		 '&name_project',
 		 '&status_user',
 		 '&startDate',
 		 '&endDate',

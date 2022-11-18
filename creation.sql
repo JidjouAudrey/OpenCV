@@ -20,13 +20,13 @@ PROMPT**********RUBRIQUE FORMATION**********
 @Features/F_Formation/add_formation
 
 PROMPT**********RUBRIQUE PAYS**********
-@PROFIL
+@Features/F_Country/add_country
 
 PROMPT**********RUBRIQUE LANGUAGE**********
-@PROFIL
+@Features/F_language/add_language
 
 PROMPT**********RUBRIQUE PHONES**********
-@PROFIL
+@Features/F_phones/add_phones
 
 PROMPT**********RUBRIQUE RESEAUX SOCIAL**********
 @Features/F_SocialNetwork/add_socialnetwork
@@ -38,7 +38,7 @@ PROMPT**********RUBRIQUE EXP PROFESSIONNEL**********
 @Features/F_Professional_exp/add_professional_exp
 
 PROMPT**********RUBRIQUE PROJETS**********
-@PROFIL
+@Features/F_Project/Add_project
 
 
 
