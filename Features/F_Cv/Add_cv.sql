@@ -1,5 +1,5 @@
-set linesize 3000;
 select * from Users;
+PROMPT*********************ID UTILISATEUR**************
 
 INSERT INTO Cv(id_cv,
 	id_user )

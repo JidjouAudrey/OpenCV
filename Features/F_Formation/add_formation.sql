@@ -1,3 +1,5 @@
+select * from Users; 
+PROMPT*********************INSERTION FORMATION**************
 INSERT INTO Formation (id_formation,
 	school,
 	fieldOfStudy,

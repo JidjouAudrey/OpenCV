@@ -1,5 +1,5 @@
 select * from Users;
-select * from Cv;
+PROMPT*********************INSERTION EXPERIENCES**************
 
 INSERT INTO Experience(id_exp,
 		title_exp,

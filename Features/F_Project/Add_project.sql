@@ -1,3 +1,5 @@
+select * from Users;
+PROMPT*********************INSERTION PROJECT**************
 INSERT INTO Project(
 		 id_project,
 		 name_project,
@@ -22,3 +24,5 @@ INSERT INTO Project(
 		 &id_formation,
 		 &id_exp,
 		 &id_expro);
+
+select * from Project;

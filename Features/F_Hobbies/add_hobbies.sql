@@ -1,5 +1,6 @@
 Select * from users;
 
+PROMPT*********************INSERTION HOBBIES**************
 INSERT INTO Hobbies(id_hobbies,
 	type_hobbies,
 	title_hobbies,

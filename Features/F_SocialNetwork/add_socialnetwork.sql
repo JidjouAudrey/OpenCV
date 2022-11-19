@@ -1,6 +1,6 @@
-select * from Profil;
+select * from Users;
 
-
+PROMPT*********************INSERTION SOCIAL NETWORK**************
 INSERT INTO SocialNetwork (id_social,
 			title_social,
 			image_social,

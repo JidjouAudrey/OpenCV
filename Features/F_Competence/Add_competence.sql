@@ -1,3 +1,6 @@
+select * from Users;
+PROMPT*********************INSERTION DES COMPETENCES**************
+
 INSERT INTO Competence( 
   id_compet, 
   name_compet, 

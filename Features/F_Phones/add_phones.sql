@@ -1,3 +1,6 @@
+select * from Users;
+PROMPT*********************INSERTION PHONES**************
+
 INSERT INTO Phones(id_phone, 
 		phoneNumber,
 		isMobile,
@@ -12,3 +15,5 @@ VALUES(seq_phones.Nextval,
 	'&isTelegram',
 	&countryCode,
 	&id_profil);
+
+select * from Phones;

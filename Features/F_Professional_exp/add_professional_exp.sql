@@ -1,5 +1,6 @@
-select * from Experience;
+select * from Users;
 
+PROMPT*********************INSERTION EXPERIENCE PRO**************
 INSERT INTO Professional_exp(id_expro,
 			status_expro,
 			organisation,
@@ -15,4 +16,5 @@ INSERT INTO Professional_exp(id_expro,
 		'&startDate',
 		'&endDate',
 		&id_exp);
+
 select * from Professional_exp;

@@ -1,4 +1,5 @@
 select * from users;
+PROMPT*********************INSERTION RECOMMANDATION**************
 
 INSERT INTO Recommandation(id_recom
 	,personName,

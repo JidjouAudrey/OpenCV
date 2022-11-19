@@ -1,4 +1,6 @@
+select * from Users;
 
+PROMPT*********************INSERTION PROFILES**************
 INSERT INTO Profil (id_profil,
 	 firstname,
 	 lastname,  
